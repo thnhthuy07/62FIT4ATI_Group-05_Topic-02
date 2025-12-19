@@ -20,7 +20,7 @@ This project implements a Deep Learning solution (Bidirectional GRU) to predict 
 ## 3. Files Description
 - `62FIT4ATI_Group 05_Topic 02.ipynb`: The main Jupyter Notebook containing the full workflow (Data Prep -> Model -> Eval).
 - `best_model.h5`: Pre-trained model weights.
-- `Project_Report.pdf`: Detailed analysis of the methodology and results.
+- `Project_Report.docx`: Detailed analysis of the methodology and results.
 - `sensor.csv`: Dataset used for training.
 
 ## 4. How to Run
