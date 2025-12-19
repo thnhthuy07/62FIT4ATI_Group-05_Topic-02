@@ -1,7 +1,9 @@
 # Industrial Pump Predictive Maintenance using - Group 5 
 
 **Course:** Advanced Topics in Information Technology - 62FIT4ATI
-**Group:** Group 5 - Topic 2
+**Topic:** 02 - Industrial Pump Predictive Maintenance
+**Group:** Group 5 
+
 **Members:**
 - Pham Dinh Huy - 2201140037 
 - Nguyen Thanh Thuy - 2201140092
