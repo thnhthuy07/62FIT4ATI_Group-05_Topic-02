@@ -26,6 +26,7 @@ This project implements a Deep Learning solution (Bidirectional GRU) to predict 
 ## 4. How to Run
 1. Open the `.ipynb` file in Google Colab.
 2. Upload the `sensor.csv` dataset to the Colab runtime.
+(Link: https://drive.google.com/drive/folders/1nUq198QcmosKNqOQOpheutsdcQTa67VF?usp=share_link)
 3. Run all cells sequentially.
 4. **Inference:** Go to the "Inference on new data" section to test random samples.
 
